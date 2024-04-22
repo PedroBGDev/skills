@@ -1,0 +1,3 @@
+API_BASE_URL = flightassets.datasavannah.com/test/
+PRODUCT_NAME = $(TARGET_NAME) Release
+SCHEME = RELEASE

@@ -1,0 +1,4 @@
+#include "Release.xcconfig"
+
+PRODUCT_NAME = $(TARGET_NAME) Stage
+SCHEME = STAGE
